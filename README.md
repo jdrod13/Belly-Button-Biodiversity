@@ -42,7 +42,7 @@
 ## Results
  
 
-**As our final report portion on this project, we implemented the  final result, which was an interactive dashboard presented to offer our users a simple  way to end-users through Github Pages.**
+**As our final report portion on this project, we implemented the  final result, which was an interactive dashboard presented to offer our users a simple  way to end-users through Github.**
  
 
 
